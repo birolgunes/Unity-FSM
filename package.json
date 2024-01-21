@@ -1,0 +1,12 @@
+{
+    "name": "com.birolgunes.fsmsystem",
+    "version": "1.0.0",
+    "displayName": "FSM",
+    "description": "This is a FSM package",
+    "unity": "2022.3",
+    "author": {
+      "name": "Birol Gunes",
+      "email": "birol.gunes7@gmail.com",
+      "url": ""
+    }
+  }
